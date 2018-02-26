@@ -1,4 +1,6 @@
 # Ignition
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSaeris%2FIgnition.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSaeris%2FIgnition?ref=badge_shield)
+
 
 ## What is Ignition?
 
@@ -31,3 +33,7 @@ npm start
 ```
 
 This command will kick off a Webpack build of the project and watch your files for changes. When the build is finished, you can open the app at http://localhost:9000.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSaeris%2FIgnition.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSaeris%2FIgnition?ref=badge_large)
